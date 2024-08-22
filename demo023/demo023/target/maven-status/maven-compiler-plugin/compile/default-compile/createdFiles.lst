@@ -1,0 +1,6 @@
+com\example\demo023\controller\RelatnController.class
+com\example\demo023\currencycontroller\CurrencyConfigurationController.class
+com\example\demo023\Demo023Application.class
+com\example\demo023\serviceconfiguration\CurrencyServiceConfiguration.class
+com\example\demo023\unity\Relatn.class
+META-INF\spring-configuration-metadata.json
